@@ -4,7 +4,8 @@ The DeFi Score is a framework for assessing risk in permissionless lending platf
 
 We encourage the Ethereum community to evolve the methodology, making it more effective and easier to use.
 
-Join the discussion on [Telegram](https://t.me/dscore).
+* Read the detailed [whitepaper](#).
+* Join the discussion on [Telegram](https://t.me/dscore).
 
 ### Scores
 We've released a first version of the DeFi score for lending Dai.
@@ -52,7 +53,7 @@ We detail a few of the core components of the score.
 </dl>
 
 ### Further Reading:
-> Link to Jack's full doc
+[DeFi Score: Assessing Risk in Permissionless Lending Protocols](#)
 
 ### Key Sponsors:
 * Jack Clancy
