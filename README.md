@@ -15,9 +15,9 @@ We encourage the Ethereum community to evolve the methodology, making it more ef
 * [Sponsors](#sponsors)
 
 ## Scores
-We've provided a few scores from early versions of the model and have included reasons why they score the way they do.
+We've provided a few scores from early versions of the model and have included reasons why they score the way they do. Note: scores are on a 10 point scale.
 
-| Pool           | DeFi Score (0-10) | Why?                                                        |
+| Pool           | DeFi Score | Why?                                                        |
 |----------------|------------|-------------------------------------------------------------|
 | Compound - ETH | 8.5        | Audited, formally verified, highest liquidity in the market |
 | Compound - DAI | 5.5        | One of the least liquid compound markets historically       |
