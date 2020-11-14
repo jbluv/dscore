@@ -1,0 +1,17 @@
+{
+  "name": "dscore",
+  "version": "0.1",
+  "description": "DeFi score is a framework for assessing risk in permissionless lending platforms",
+  "main": "README.md",
+  "repository": "git@github.com:jbluv/dscore.git",
+  "author": "Jack Clancy <jack.clancy93@gmail.com>",
+  "license": "CC BY-SA 2.0",
+  "private": false,
+  "scripts": {
+    "sponsors:add": "all-sponsors add",
+    "sponsors:generate": "all-sponsors generate"
+  },
+  "devDependencies": {
+    "all-sponsors-cli": "^6.9.1"
+  }
+}
