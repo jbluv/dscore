@@ -69,7 +69,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "TomAFrench",
+      "name": "Tom French",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15848336?v=4",
+      "profile": "https://github.com/TomAFrench",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "sponsorsPerLine": 7
+  "sponsorsPerLine": 7,
+  "skipCi": true
 }
