@@ -9,18 +9,9 @@
   "private": false,
   "scripts": {
     "sponsors:add": "all-sponsors add",
-    "sponsors:generate": "all-sponsors generate",
-    "release": "standard-version"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
+    "sponsors:generate": "all-sponsors generate"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.4",
-    "@commitlint/config-conventional": "^8.3.4",
-    "all-sponsors-cli": "^6.9.1",
-    "standard-version": "^7.0.1"
+    "all-sponsors-cli": "^6.9.1"
   }
 }
